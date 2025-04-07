@@ -8,7 +8,7 @@ Para instalar las dependencias necesarias, ejecuta:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/Ivancastl/dominios.git
+    git clone https://github.com/Ivancastl/mitre.git
 
     ```
 2. Navega al directorio del proyecto:
